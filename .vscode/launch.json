@@ -1,0 +1,53 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MusicShop",
+            "request": "launch",
+            "mainClass": "MusicShop",
+            "projectName": "OOP-corseworkWithFiles_56bee0c2"
+        },
+        {
+            "type": "java",
+            "name": "MusicShop",
+            "request": "launch",
+            "mainClass": "MusicShop",
+            "projectName": "OOP-corseworkWithFiles_8e9df2ca"
+        },
+        {
+            "type": "java",
+            "name": "MusicShop",
+            "request": "launch",
+            "mainClass": "MusicShop",
+            "projectName": "OOP-corsework-main_ed99272e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MusicShop",
+            "request": "launch",
+            "mainClass": "MusicShop",
+            "projectName": "KURSOVIK_NAAASHH_4939b09c"
+        },
+        {
+            "type": "java",
+            "name": "Launch JUnit Tests",
+            "request": "launch",
+            "mainClass": "",
+            "projectName": "your-project-name",
+            "classPaths": [
+                "path-to-your-class-files"
+            ],
+            "args": ""
+        }
+    ]
+}
